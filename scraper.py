@@ -1,5 +1,4 @@
-from fileinput import filename
-from os import link
+
 from bs4 import BeautifulSoup
 import requests 
 import json
